@@ -7,14 +7,14 @@ Implementation of some semantic segmentation models with pytorch, including Deep
 ## Features
 
  - Advanced neural network models
- - Flexible and efficient toolkit(See [woodsgao/pytorch_modules](https://github.com/woodsgao/pytorch_modules))
- - Online data augmenting(See [woodsgao/image_augments](https://github.com/woodsgao/image_augments))
+ - Flexible and efficient toolkit(See [woodsgao/pytorch_modules](https://github.com/Bazingaliu/pytorch_modules))
+ - Online data augmenting(See [woodsgao/image_augments](https://github.com/Bazingaliu/image_augments))
  - Mixed precision training(If you have already installed [apex](https://github.com/NVIDIA/apex))
  - Efficient distributed training(0.8x faster when using two 2080ti)
 
 ## Installation
 
-    git clone https://github.com/woodsgao/pytorch_segmentation
+    git clone https://github.com/Bazingaliu/pytorch_segmentation
     cd pytorch_segmentation
     pip install -r requirements.txt
 
